@@ -1,0 +1,47 @@
+
+#pricing{
+  padding-top: 0;
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align: center;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+.jumbotron
+{
+  padding-bottom: 0;
+  padding-top: 20px;
+}
+.card-header
+{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #fff;
+  background-color:#343a40;
+}
+.card-body
+{
+  font-family: 'Montserrat', sans-serif;
+}
+#footer{
+  background-color: #343a40;
+  color:#fff;
+  padding: 0 15%;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.social-icon{
+  margin: 20px 10px;
+}
+.modal-buttons{
+  font-color: #fff;
+}
+.image-agriculture
+{
+  width: 100%;
+  margin-left: 700px;
+  height: 300px;
+  radius:100%;
+  align: right;
+}
