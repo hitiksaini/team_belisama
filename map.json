@@ -1,146 +1,146 @@
 [
  {
-   "State": "Andaman and Nicobar",
-   "Total": 3
+   "code": "Andaman and Nicobar",
+   "value": 3
  },
  {
-   "State": "Andhra Pradesh",
-   "Total": 275939
+   "code": "Andhra Pradesh",
+   "value": 275939
  },
  {
-   "State": "Arunachal Pradesh",
-   "Total": 11
+   "code": "Arunachal Pradesh",
+   "value": 11
  },
  {
-   "State": "Assam",
-   "Total": 1112
+   "code": "Assam",
+   "value": 1112
  },
  {
-   "State": "Bihar",
-   "Total": 23259
+   "code": "Bihar",
+   "value": 23259
  },
  {
-   "State": "Chandigarh",
-   "Total": 19
+   "code": "Chandigarh",
+   "value": 19
  },
  {
-   "State": "Chhattisgarh",
-   "Total": 5795
+   "code": "Chhattisgarh",
+   "value": 5795
  },
  {
-   "State": "Dadra and Nagar Haveli",
-   "Total": 9
+   "code": "Dadra and Nagar Haveli",
+   "value": 9
  },
  {
-   "State": "Daman and Diu",
-   "Total": 0
+   "code": "Daman and Diu",
+   "value": 0
  },
  {
-   "State": "Delhi",
-   "Total": 1228
+   "code": "Delhi",
+   "value": 1228
  },
  {
-   "State": "Goa",
-   "Total": 47
+   "code": "Goa",
+   "value": 47
  },
  {
-   "State": "Gujarat",
-   "Total": 147449
+   "code": "Gujarat",
+   "value": 147449
  },
  {
-   "State": "Haryana",
-   "Total": 47239
+   "code": "Haryana",
+   "value": 47239
  },
  {
-   "State": "Himachal Pradesh",
-   "Total": 471
+   "code": "Himachal Pradesh",
+   "value": 471
  },
  {
-   "State": "Jammu and Kashmir",
-   "Total": 80
+   "code": "Jammu and Kashmir",
+   "value": 80
  },
  {
-   "State": "Jharkhand",
-   "Total": 563
+   "code": "Jharkhand",
+   "value": 563
  },
  {
-   "State": "Karnataka",
-   "Total": 0
+   "code": "Karnataka",
+   "value": 0
  },
  {
-   "State": "Kerala",
-   "Total": 1050
+   "code": "Kerala",
+   "value": 1050
  },
  {
-   "State": "Lakshadweep",
-   "Total": 0
+   "code": "Lakshadweep",
+   "value": 0
  },
  {
-   "State": "Madhya Pradesh",
-   "Total": 118553
+   "code": "Madhya Pradesh",
+   "value": 118553
  },
  {
-   "State": "Maharashtra",
-   "Total": 113358
+   "code": "Maharashtra",
+   "value": 113358
  },
  {
-   "State": "Manipur",
-   "Total": 0
+   "code": "Manipur",
+   "value": 0
  },
  {
-   "State": "Meghalaya",
-   "Total": 5
+   "code": "Meghalaya",
+   "value": 5
  },
  {
-   "State": "Mizoram",
-   "Total": 0
+   "code": "Mizoram",
+   "value": 0
  },
  {
-   "State": "Nagaland",
-   "Total": 2
+   "code": "Nagaland",
+   "value": 2
  },
  {
-   "State": "Orissa",
-   "Total": 6035
+   "code": "Orissa",
+   "value": 6035
  },
  {
-   "State": "Puducherry",
-   "Total": 1990
+   "code": "Puducherry",
+   "value": 1990
  },
  {
-   "State": "Punjab",
-   "Total": 316323
+   "code": "Punjab",
+   "value": 316323
  },
  {
-   "State": "Rajasthan",
-   "Total": 176072
+   "code": "Rajasthan",
+   "value": 176072
  },
  {
-   "State": "Sikkim",
-   "Total": 0
+   "code": "Sikkim",
+   "value": 0
  },
  {
-   "State": "Tamil Nadu",
-   "Total": 160607
+   "code": "Tamil Nadu",
+   "value": 160607
  },
  {
-   "State": "Telangana",
-   "Total": 0
+   "code": "Telangana",
+   "value": 0
  },
  {
-   "State": "Tripura",
-   "Total": 166
+   "code": "Tripura",
+   "value": 166
  },
  {
-   "State": "Uttar Pradesh",
-   "Total": 49053
+   "code": "Uttar Pradesh",
+   "value": 49053
  },
  {
-   "State": "Uttaranchal",
-   "Total": 1330
+   "code": "Uttaranchal",
+   "value": 1330
  },
  {
-   "State": "West Bengal",
-   "Total": 5196
+   "code": "West Bengal",
+   "value": 5196
  }
 ]
