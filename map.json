@@ -1,146 +1,34 @@
-[
- {
-   "code": "Andaman and Nicobar",
-   "value": 3
- },
- {
-   "code": "Andhra Pradesh",
-   "value": 275939
- },
- {
-   "code": "Arunachal Pradesh",
-   "value": 11
- },
- {
-   "code": "Assam",
-   "value": 1112
- },
- {
-   "code": "Bihar",
-   "value": 23259
- },
- {
-   "code": "Chandigarh",
-   "value": 19
- },
- {
-   "code": "Chhattisgarh",
-   "value": 5795
- },
- {
-   "code": "Dadra and Nagar Haveli",
-   "value": 9
- },
- {
-   "code": "Daman and Diu",
-   "value": 0
- },
- {
-   "code": "Delhi",
-   "value": 1228
- },
- {
-   "code": "Goa",
-   "value": 47
- },
- {
-   "code": "Gujarat",
-   "value": 147449
- },
- {
-   "code": "Haryana",
-   "value": 47239
- },
- {
-   "code": "Himachal Pradesh",
-   "value": 471
- },
- {
-   "code": "Jammu and Kashmir",
-   "value": 80
- },
- {
-   "code": "Jharkhand",
-   "value": 563
- },
- {
-   "code": "Karnataka",
-   "value": 0
- },
- {
-   "code": "Kerala",
-   "value": 1050
- },
- {
-   "code": "Lakshadweep",
-   "value": 0
- },
- {
-   "code": "Madhya Pradesh",
-   "value": 118553
- },
- {
-   "code": "Maharashtra",
-   "value": 113358
- },
- {
-   "code": "Manipur",
-   "value": 0
- },
- {
-   "code": "Meghalaya",
-   "value": 5
- },
- {
-   "code": "Mizoram",
-   "value": 0
- },
- {
-   "code": "Nagaland",
-   "value": 2
- },
- {
-   "code": "Orissa",
-   "value": 6035
- },
- {
-   "code": "Puducherry",
-   "value": 1990
- },
- {
-   "code": "Punjab",
-   "value": 316323
- },
- {
-   "code": "Rajasthan",
-   "value": 176072
- },
- {
-   "code": "Sikkim",
-   "value": 0
- },
- {
-   "code": "Tamil Nadu",
-   "value": 160607
- },
- {
-   "code": "Telangana",
-   "value": 0
- },
- {
-   "code": "Tripura",
-   "value": 166
- },
- {
-   "code": "Uttar Pradesh",
-   "value": 49053
- },
- {
-   "code": "Uttaranchal",
-   "value": 1330
- },
- {
-   "code": "West Bengal",
-   "value": 5196
- }
-]
+    ['in-py', 0],
+    ['in-ld', 1],
+    ['in-wb', 2],
+    ['in-or', 3],
+    ['in-br', 4],
+    ['in-sk', 5],
+    ['in-ct', 6],
+    ['in-tn', 7],
+    ['in-mp', 8],
+    ['in-2984', 9],
+    ['in-ga', 10],
+    ['in-nl', 11],
+    ['in-mn', 12],
+    ['in-ar', 13],
+    ['in-mz', 14],
+    ['in-tr', 15],
+    ['in-3464', 16],
+    ['in-dl', 17],
+    ['in-hr', 18],
+    ['in-ch', 19],
+    ['in-hp', 20],
+    ['in-jk', 21],
+    ['in-kl', 22],
+    ['in-ka', 23],
+    ['in-dn', 24],
+    ['in-mh', 25],
+    ['in-as', 26],
+    ['in-ap', 27],
+    ['in-ml', 28],
+    ['in-pb', 29],
+    ['in-rj', 30],
+    ['in-up', 31],
+    ['in-ut', 32],
+    ['in-jh', 33]
