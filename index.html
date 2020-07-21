@@ -68,15 +68,6 @@ Highcharts.mapChart('container', {
     chart: {
         map: 'countries/in/custom/in-all-disputed'
     },
-
-    title: {
-        text: 'Highmaps basic demo'
-    },
-
-    subtitle: {
-        text: 'Source map: <a href="http://code.highcharts.com/mapdata/countries/in/custom/in-all-disputed.js">India with disputed territories</a>'
-    },
-
     mapNavigation: {
         enabled: true,
         buttonOptions: {
@@ -85,15 +76,21 @@ Highcharts.mapChart('container', {
     },
 
     colorAxis: {
-        min: 0
+        min: 1,
+        minColor: '#EEEEFF',
+            maxColor: '#000022',
+            stops: [
+                [0, '#EFEFFF'],
+                [0.50, '#17a2b8'],
+                [1, '#000022']
+            ]
     },
-
     series: [{
         data: data,
-        name: 'Random data',
+        name: 'Number of Deep Tubewells',
         states: {
             hover: {
-                color: '#BADA55'
+                color: '#4f9e82'
             }
         },
         dataLabels: {
